@@ -12,4 +12,11 @@
     <dimen name="text_size_14_sp">14sp</dimen>
     <dimen name="padding_20_dp">20dp</dimen>
     <dimen name="padding_50_dp">50dp</dimen>
+
+    <dimen name="custom_tab_layout_height">56dp</dimen>
+    <dimen name="media_summary_strip">78dp</dimen>
+    <dimen name="media_summary_grid">96dp</dimen>
+    <dimen name="tab_indicator_height">5dp</dimen>
+    <dimen name="emoji_icon_size">28sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>

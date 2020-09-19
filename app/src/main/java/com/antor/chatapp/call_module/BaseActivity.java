@@ -117,11 +117,7 @@ public abstract class BaseActivity extends AppCompatActivity implements ServiceC
 //        }
 //    };
 
-    abstract void myUsersResult(ArrayList<User> myUsers);
 
-   // abstract void myContactsResult(ArrayList<Contact> myContacts);
-
-    abstract void userAdded(User valueUser);
 
 
     abstract void onSinchConnected();

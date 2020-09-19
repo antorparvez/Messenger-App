@@ -11,6 +11,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="com.antor.chatapp.ViewProfileActivity"></activity>
+
+        <service
+            android:name="com.antor.chatapp.call_module.SinchService"
+            android:enabled="true"
+            android:exported="false" />
+
         <activity
             android:name="com.antor.chatapp.StartActivity"
             android:windowSoftInputMode="stateAlwaysHidden">
